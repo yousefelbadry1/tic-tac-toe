@@ -13,7 +13,7 @@ Tic-Tac-Toe game using Qt creator
 - ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=Qt)&nbsp;
 
 ## GIF Demo <a name = "demo"></a>
-![](https://github.com/yousefelbadry1/tic-tac-toe/blob/main/Final%20Result.mp4)
+![](https://github.com/yousefelbadry1/tic-tac-toe/blob/main/Final%20Result.gif)
 
 ## Main Features <a name ="features"></a>
 - Login / Signup page
