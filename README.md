@@ -17,5 +17,5 @@ Tic-Tac-Toe game using Qt creator
 
 ## Main Features <a name ="features"></a>
 - Login / Signup page
-- 2 modes of playing (1 Vs 1 & 1 Vs Ai)
+- 2 modes of playing (player Vs player & player Vs Ai)
 - Scoreboard History
